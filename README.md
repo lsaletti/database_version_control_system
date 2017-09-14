@@ -1,4 +1,4 @@
-Docker-Flyway (Geofusion)
+Docker-Flyway
 -------------------------
 
 Este repositório contém o arquivo docker-compose.yml, que inicia o funcionamento do docker-flyway.
