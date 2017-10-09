@@ -17,7 +17,7 @@ Este repositório contém o arquivo docker-compose.yml, que inicia o funcionamen
 
 
 ```sh
-$ git clone https://git.geofusion.com.br/lucas.saletti/flyway.git
+$ git clone https:/github.com/lsaletti/database_version_control_system/
 ```
 
 
